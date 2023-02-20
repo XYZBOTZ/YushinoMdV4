@@ -34,16 +34,16 @@ global.owner = [
 ]
 global.mods = []
 global.prems = []
-global.nomorbot = '6283838186170'
-global.nomorown = '6281361281833'
-global.nomorown2 = '6282376267531'//bisa nama pacarmu
+global.nomorbot = '6283148340038'
+global.nomorown = '6285862754807'
+global.nomorown2 = '6285862754807'//bisa nama pacarmu
 global.nomorwa = '0'//gakusah di ganti
 
 
 //⫹⫺ ╳╶╼╶╶╶╶┈ ⎝ WM ⎞ ┈╴╴╴╴╾╴╳ ⫹⫺
 
 global.readMore = readMore
-global.author = 'Created By Aldi'
+global.author = 'Created By Nopan'
 global.namebot = '𝐘𝐮𝐬𝐡𝐢𝐧𝐨 𝐌𝐝'
 global.wm = '© 𝘾𝙧𝙚𝙖𝙩𝙚𝙙 𝘽𝙮 𝐘𝐮𝐬𝐡𝐢𝐧𝐨 𝐌𝐝'
 global.media = 'https://telegra.ph/file/5d45a3d1e12726d98c5e4.jpg'
@@ -54,7 +54,7 @@ global.packname = wm
 global.bottime = `T I M E : ${wktuwib}`
 global.titlebot = `𝒀𝒖𝒔𝒉𝒊𝒏𝒐𝑴𝒅`
 global.stickpack = '𝑨𝒍𝒅𝒊 𝐗 𝑩𝒐𝒕 𝑾𝒉𝒂𝒕𝒔𝒂𝒑𝒑'
-global.stickauth = `© Yushino MD`
+global.stickauth = `© Tobot Md`
 global.week = `${week} ${date}`
 global.wibb = `${wktuwib}`
 //⫹⫺ ╳╶╼╶╶╶╶┈ ⎝ OWNER INFO ⎞ ┈╴╴╴╴╾╴╳ ⫹⫺
