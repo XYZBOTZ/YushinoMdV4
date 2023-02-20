@@ -44,38 +44,38 @@ global.nomorwa = '0'//gakusah di ganti
 
 global.readMore = readMore
 global.author = 'Created By Nopan'
-global.namebot = '𝐘𝐮𝐬𝐡𝐢𝐧𝐨 𝐌𝐝'
-global.wm = '© 𝘾𝙧𝙚𝙖𝙩𝙚𝙙 𝘽𝙮 𝐘𝐮𝐬𝐡𝐢𝐧𝐨 𝐌𝐝'
+global.namebot = '𝐓𝐨𝐛𝐨𝐭 𝐌𝐝'
+global.wm = '© 𝘾𝙧𝙚𝙖𝙩𝙚𝙙 𝘽𝙮 𝐓𝐨𝐛𝐨𝐭 𝐌𝐝'
 global.media = 'https://telegra.ph/file/5d45a3d1e12726d98c5e4.jpg'
 global.watermark = wm
 global.wm2 = '𝒀𝒖𝒔𝒉𝒊𝒏𝒐 𝑴𝒅 '
 global.botdate = `⫹⫺ DATE: ${week} ${date}\n⫹⫺ 𝗧𝗶𝗺𝗲: ${wktuwib}`
 global.packname = wm
 global.bottime = `T I M E : ${wktuwib}`
-global.titlebot = `𝒀𝒖𝒔𝒉𝒊𝒏𝒐𝑴𝒅`
-global.stickpack = '𝑨𝒍𝒅𝒊 𝐗 𝑩𝒐𝒕 𝑾𝒉𝒂𝒕𝒔𝒂𝒑𝒑'
+global.titlebot = `𝐓𝐨𝐛𝐨𝐭 𝐌𝐝`
+global.stickpack = '𝐍𝐨𝐩𝐚𝐧 𝐗 𝑩𝒐𝒕 𝑾𝒉𝒂𝒕𝒔𝒂𝒑𝒑'
 global.stickauth = `© Tobot Md`
 global.week = `${week} ${date}`
 global.wibb = `${wktuwib}`
 //⫹⫺ ╳╶╼╶╶╶╶┈ ⎝ OWNER INFO ⎞ ┈╴╴╴╴╾╴╳ ⫹⫺
-global.nameown = 'Aldi'
+global.nameown = 'Nopan'
 //⫹⫺ ╳╶╼╶╶╶╶┈ ⎝ MEDIA LINK ⎞ ┈╴╴╴╴╾╴╳ ⫹⫺
 global.sgc = 'https://chat.whatsapp.com/LmbsOrpSGEpDdFdpuukmmP' //group whatsapp
 global.lynk = 'https://lynk.id/hyuuraofc'
 
 
 //⫹⫺ ╳╶╼╶╶╶╶┈ ⎝ MEDIA SOSSIAL ⎞ ┈╴╴╴╴╾╴╳ ⫹⫺
-global.sig = 'https://instagram.com/al.0fficial_/'
-global.sgh = 'https://github.com/Aldi-Ganz-Official' //github
+global.sig = 'https://instagram.com/xyznopan'
+global.sgh = 'https://github.com/nopanmaker' //github
 global.sdc = '-' //discord
 global.snh = 'https://youtube.com/channel/UCjoPsysjCn2Qa0dRalUb2mg'
 
 //⫹⫺ ╳╶╼╶╶╶╶┈ ⎝ DONASI ⎞ ┈╴╴╴╴╾╴╳ ⫹⫺
-global.pdana = '0813 6128 1833'
+global.pdana = '0815-4698-8821'
 global.povo = '-'
-global.pgopay = '0813 6128 1833'
-global.ppulsa = '0813 6128 1833'
-global.ppulsa2 = '083838186170'
+global.pgopay = '0858-6275-4807'
+global.ppulsa = '0858-6275-4807'
+global.ppulsa2 = '085862754807'
 global.psaweria = 'https://saweria.co/hyuura'
 
 
