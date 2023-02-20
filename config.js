@@ -30,7 +30,7 @@ const readMore = more.repeat(4001)
 //⫹⫺ ╳╶╼╶╶╶╶┈ ⎝ NO OWNER ⎞ ┈╴╴╴╴╾╴╳ ⫹⫺
 
 global.owner = [
-['6281361281833', 'Aldi', true]
+['6281361281833', 'Nopan', true]
 ]
 global.mods = []
 global.prems = []
